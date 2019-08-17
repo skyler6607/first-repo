@@ -1,0 +1,17 @@
+/* font-family: 'Lexend Mega', sans-serif; */
+body{
+    font-family: 'Lexend Mega', sans-serif;
+    color: blue;
+    background-color: purple;
+    width: 75%;
+    margin: 0 auto;
+
+}
+h1{
+    text-align: center;
+
+}
+    .spotifyLogo{
+    width: 5%;
+    margin: 0 auto;
+}
